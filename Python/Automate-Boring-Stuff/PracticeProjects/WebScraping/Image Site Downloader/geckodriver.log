@@ -669,15 +669,27 @@ JavaScript error: , line 0: NotAllowedError: The play method is not allowed by t
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1600369578937	geckodriver	INFO	Listening on 127.0.0.1:60074
-1600369581951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DamianPC\\AppData\\Local\\Temp\\rust_mozprofilecl8VW6"
+1600370134624	Marionette	INFO	Stopped listening on port 61572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilecl8VW6"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600369583951	Marionette	INFO	Listening on port 60084
 1600369583986	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2d7d9a6d04538bf11c7b23641e75738c.html?origin=https%3A%2F%2Fimgur.com, line 12: Error: Network error.
-1600369662464	geckodriver	INFO	Listening on 127.0.0.1:49266
-1600369665477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DamianPC\\AppData\\Local\\Temp\\rust_mozprofileEpFVtH"
+1600370134638	Marionette	INFO	Stopped listening on port 60084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileEpFVtH"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600369667582	Marionette	INFO	Listening on port 49275
@@ -696,8 +708,14 @@ JavaScript error: , line 0: NotAllowedError: The play method is not allowed by t
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1600369739415	geckodriver	INFO	Listening on 127.0.0.1:53263
-1600369742431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DamianPC\\AppData\\Local\\Temp\\rust_mozprofilebldkhT"
+1600370134641	Marionette	INFO	Stopped listening on port 49275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilebldkhT"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600369744592	Marionette	INFO	Listening on port 53273
@@ -716,8 +734,14 @@ JavaScript error: , line 0: NotAllowedError: The play method is not allowed by t
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1600369915281	geckodriver	INFO	Listening on 127.0.0.1:57544
-1600369918294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DamianPC\\AppData\\Local\\Temp\\rust_mozprofileWnqJnw"
+1600370134651	Marionette	INFO	Stopped listening on port 53273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileWnqJnw"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600369920408	Marionette	INFO	Listening on port 57553
@@ -736,8 +760,14 @@ JavaScript error: , line 0: NotAllowedError: The play method is not allowed by t
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1600369958001	geckodriver	INFO	Listening on 127.0.0.1:57667
-1600369961013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DamianPC\\AppData\\Local\\Temp\\rust_mozprofileuE34AC"
+1600370134598	Marionette	INFO	Stopped listening on port 57553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileuE34AC"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1600369963129	Marionette	INFO	Listening on port 57677
@@ -758,3 +788,10 @@ JavaScript error: https://s.imgur.com/desktop-assets/js/main.87123ce3a6fd85def22
 JavaScript error: https://s.imgur.com/desktop-assets/js/gallery.d542f057c9ffcae5aa25.bundle.js, line 1: TypeError: o.sctuWrapper.current is null
 JavaScript error: https://s.imgur.com/desktop-assets/js/main.87123ce3a6fd85def222.js, line 1: TypeError: r.payload.allAds is undefined
 JavaScript error: https://s.imgur.com/desktop-assets/js/gallery.d542f057c9ffcae5aa25.bundle.js, line 1: TypeError: o.sctuWrapper.current is null
+1600370134605	Marionette	INFO	Stopped listening on port 57677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
